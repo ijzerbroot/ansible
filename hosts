@@ -1,0 +1,1 @@
+localhost ansible_user=frank ansible_port=2222
